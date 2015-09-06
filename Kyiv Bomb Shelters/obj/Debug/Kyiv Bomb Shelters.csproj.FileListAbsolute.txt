@@ -1,0 +1,86 @@
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\ApplicationIcon.png
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Kyiv Bomb Shelters.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Kyiv Bomb Shelters.pdb
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\AppManifest.xaml
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Properties\WMAppManifest.xml
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\App.g.cs
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\MainPage.g.cs
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.g.resources
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv_Bomb_Shelters.Resources.AppResources.resources
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.csproj.GenerateResource.Cache
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.pdb
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\XapCacheFile.xml
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.csprojResolveAssemblyReference.cache
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\resources.pri
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\AppxManifest.xml
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Kyiv Bomb Shelters.build.appxrecipe
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Kyiv Bomb Shelters_Debug_AnyCPU.xap
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\priconfig.xml
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\priconfig.xml.intermediate
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\layout.resfiles
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\layout.resfiles.intermediate
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\resources.resfiles
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\resources.resfiles.intermediate
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\pri.resfiles
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\pri.resfiles.intermediate
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\qualifiers.txt
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\qualifiers.txt.intermediate
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\ProjectArchitectures.txt
+D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\MDILProjectFiles.xml
