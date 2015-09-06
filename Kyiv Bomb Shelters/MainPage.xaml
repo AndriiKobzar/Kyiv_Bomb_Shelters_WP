@@ -19,7 +19,7 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <Button Content="Find nearest shelter" FontSize="30" Margin="0,0,0,678" Click="Button_Click"/>
-        <Controls:Map x:Name="map" Margin="0,95,0,0" Center="50.450043, 30.524021" ZoomLevel="15"/>
+        <Controls:Map x:Name="map" Margin="12,95,12,12" Center="50.450043, 30.524021" ZoomLevel="15"/>
     </Grid>
 
 </phone:PhoneApplicationPage>

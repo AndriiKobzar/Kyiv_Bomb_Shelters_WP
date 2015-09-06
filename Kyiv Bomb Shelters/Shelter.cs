@@ -23,6 +23,12 @@ namespace Kyiv_Bomb_Shelters
             get { return coordinate; }
             set { coordinate = value; }
         }
-        string condition = "";
+        string type = "";
+
+        public string Type
+        {
+            get { return type; }
+            set { type = value; }
+        }
     }
 }

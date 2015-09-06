@@ -1,9 +1,13 @@
-﻿<xapCache source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Kyiv Bomb Shelters_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="06.09.2015 3:16:04">
-  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="06.09.2015 3:16:00" />
-  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.dll" archivePath="Kyiv Bomb Shelters.dll" lastWriteTime="06.09.2015 3:15:58" />
+﻿<xapCache source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Kyiv Bomb Shelters_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="06.09.2015 15:04:22">
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="06.09.2015 11:43:06" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\Kyiv Bomb Shelters.dll" archivePath="Kyiv Bomb Shelters.dll" lastWriteTime="06.09.2015 15:04:17" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="06.09.2015 2:40:07" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="06.09.2015 3:07:29" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\dangerous.png" archivePath="Assets\dangerous.png" lastWriteTime="06.09.2015 11:09:48" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="06.09.2015 3:07:29" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\medium.png" archivePath="Assets\medium.png" lastWriteTime="06.09.2015 11:09:59" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\new_tt.txt" archivePath="Assets\new_tt.txt" lastWriteTime="06.09.2015 12:32:03" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\safe.png" archivePath="Assets\safe.png" lastWriteTime="06.09.2015 11:09:35" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="06.09.2015 3:07:30" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="06.09.2015 3:07:30" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="06.09.2015 3:07:30" />
@@ -14,10 +18,10 @@
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="06.09.2015 2:40:07" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="06.09.2015 3:07:30" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="06.09.2015 3:16:04" />
-  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="06.09.2015 2:40:07" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="06.09.2015 15:01:44" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="06.09.2015 2:40:07" />
   <file source="D:\Study\WORK\Kyiv Live\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="26.01.2015 16:05:03" />
   <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="06.09.2015 3:16:04" />
-  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="06.09.2015 3:16:04" />
-  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="06.09.2015 3:16:01" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="06.09.2015 15:04:22" />
+  <file source="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="06.09.2015 11:43:06" />
 </xapCache>

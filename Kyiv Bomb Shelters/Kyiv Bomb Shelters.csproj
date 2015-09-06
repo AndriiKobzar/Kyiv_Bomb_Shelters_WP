@@ -111,6 +111,7 @@
       <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
     <Compile Include="Shelter.cs" />
+    <Compile Include="SolidBrush.cs" />
     <Compile Include="ViewModels\ItemViewModel.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
   </ItemGroup>
@@ -143,7 +144,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Assets\BadgeLogo.png" />
+    <Content Include="Assets\dangerous.png" />
     <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\medium.png" />
+    <Content Include="Assets\new_tt.txt" />
+    <Content Include="Assets\safe.png" />
     <Content Include="Assets\SplashScreen.png" />
     <Content Include="Assets\SquareTile150x150.png" />
     <Content Include="Assets\SquareTile71x71.png" />

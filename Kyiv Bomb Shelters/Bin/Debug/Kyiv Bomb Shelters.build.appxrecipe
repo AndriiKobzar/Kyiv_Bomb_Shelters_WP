@@ -178,9 +178,18 @@
     <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\dangerous.png">
+      <PackagePath>Assets\dangerous.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\medium.png">
+      <PackagePath>Assets\medium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\safe.png">
+      <PackagePath>Assets\safe.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
@@ -215,6 +224,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Assets\new_tt.txt">
+      <PackagePath>Assets\new_tt.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Study\WORK\Kyiv Bomb Shelters\Kyiv Bomb Shelters\Bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

@@ -5,7 +5,11 @@
     <File>Kyiv Bomb Shelters.dll</File>
     <File>Assets\AlignmentGrid.png</File>
     <File>Assets\BadgeLogo.png</File>
+    <File>Assets\dangerous.png</File>
     <File>Assets\Logo.png</File>
+    <File>Assets\medium.png</File>
+    <File>Assets\new_tt.txt</File>
+    <File>Assets\safe.png</File>
     <File>Assets\SplashScreen.png</File>
     <File>Assets\SquareTile150x150.png</File>
     <File>Assets\SquareTile71x71.png</File>
